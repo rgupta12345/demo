@@ -3,8 +3,8 @@ int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers;
 
-    firstNumber = 10
-    secondNumber = 20    
+    firstNumber = 10;
+    secondNumber = 20;    
     //printf("Enter two integers: ");
 
     // Two integers entered by user is stored using scanf() function
